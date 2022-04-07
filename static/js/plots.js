@@ -36,13 +36,16 @@ d3.json("/static/data/us_states.json").then(function(data) {
           // When a user's mouse cursor touches a map feature, the mouseover event calls this function, which makes that feature's opacity change to 90% so that it stands out.
           mouseover: function(event) {
             layer = event.target;
+            layer.openPopup();
             layer.setStyle({
               fillOpacity: 0.9
+            
             });
           },
           // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 50%.
           mouseout: function(event) {
             layer = event.target;
+            layer.closePopup();
             layer.setStyle({
               fillOpacity: 0.5
             });
@@ -50,11 +53,11 @@ d3.json("/static/data/us_states.json").then(function(data) {
           // When a feature (neighborhood) is clicked, it enlarges to fit the screen.
           click: function(event) {
             state = feature.properties.name;
-            PlotState(eval(state))
+            // PlotState(eval(state))
           }
         });
         // Giving each feature a popup with information that's relevant to it
-        layer.bindPopup("<h1>" + feature.properties.name + "</h1>");
+        layer.bindPopup("<h2>" + feature.properties.name + "</h2>");
   
       }
     }).addTo(myMap);
