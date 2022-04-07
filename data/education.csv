@@ -1,0 +1,511 @@
+State,DATE,College,High School
+Alaska,2011,26.4,91.8
+Alaska,2012,28.0,92.0
+Alaska,2013,28.0,91.6
+Alaska,2014,28.0,92.9
+Alaska,2015,29.7,92.6
+Alaska,2016,29.6,93.1
+Alaska,2017,28.8,91.7
+Alaska,2018,30.2,93.3
+Alaska,2019,30.2,93.6
+Alaska,2020,31.9,93.7
+Alabama,2011,22.3,82.7
+Alabama,2012,23.3,84.0
+Alabama,2013,23.5,84.5
+Alabama,2014,23.5,84.7
+Alabama,2015,24.2,84.9
+Alabama,2016,24.7,85.1
+Alabama,2017,25.5,86.5
+Alabama,2018,25.5,86.6
+Alabama,2019,26.3,87.1
+Alabama,2020,27.8,88.0
+Arkansas,2011,20.3,83.8
+Arkansas,2012,21.0,84.8
+Arkansas,2013,20.6,84.4
+Arkansas,2014,21.4,85.3
+Arkansas,2015,21.8,85.4
+Arkansas,2016,22.4,86.0
+Arkansas,2017,23.4,86.7
+Arkansas,2018,23.3,87.2
+Arkansas,2019,23.3,87.5
+Arkansas,2020,24.9,88.2
+Arizona,2011,26.6,85.7
+Arizona,2012,27.3,85.7
+Arizona,2013,27.4,85.9
+Arizona,2014,27.6,86.1
+Arizona,2015,27.7,86.1
+Arizona,2016,28.9,86.7
+Arizona,2017,29.4,87.2
+Arizona,2018,29.7,87.5
+Arizona,2019,30.2,87.6
+Arizona,2020,33.0,89.1
+California,2011,30.3,81.1
+California,2012,30.9,81.5
+California,2013,31.0,81.7
+California,2014,31.7,82.1
+California,2015,32.3,82.2
+California,2016,32.9,82.4
+California,2017,33.6,83.3
+California,2018,34.2,83.8
+California,2019,35.0,84.0
+California,2020,36.9,84.4
+Colorado,2011,36.7,90.2
+Colorado,2012,37.5,90.6
+Colorado,2013,37.8,90.5
+Colorado,2014,38.3,90.5
+Colorado,2015,39.2,91.2
+Colorado,2016,39.9,91.4
+Colorado,2017,41.2,91.6
+Colorado,2018,41.7,91.9
+Colorado,2019,42.7,92.4
+Colorado,2020,44.2,92.7
+Connecticut,2011,36.2,89.1
+Connecticut,2012,37.1,89.9
+Connecticut,2013,37.2,89.7
+Connecticut,2014,38.0,90.1
+Connecticut,2015,38.3,90.2
+Connecticut,2016,38.6,90.5
+Connecticut,2017,38.7,90.4
+Connecticut,2018,39.6,90.9
+Connecticut,2019,39.8,90.7
+Connecticut,2020,42.4,91.6
+District of Columbia,2011,52.5,87.2
+District of Columbia,2012,53.0,88.6
+District of Columbia,2013,55.1,90.1
+District of Columbia,2014,55.0,90.2
+District of Columbia,2015,56.7,89.8
+District of Columbia,2016,56.8,90.5
+District of Columbia,2017,57.3,90.2
+District of Columbia,2018,60.4,92.1
+District of Columbia,2019,59.7,91.9
+District of Columbia,2020,63.6,93.8
+Delaware,2011,28.8,87.0
+Delaware,2012,29.5,88.5
+Delaware,2013,29.8,88.3
+Delaware,2014,30.6,89.0
+Delaware,2015,30.9,88.9
+Delaware,2016,31.0,89.3
+Delaware,2017,31.5,90.6
+Delaware,2018,31.3,89.8
+Delaware,2019,33.2,90.3
+Delaware,2020,34.7,91.0
+Florida,2011,25.8,85.9
+Florida,2012,26.8,86.5
+Florida,2013,27.2,86.8
+Florida,2014,27.3,87.2
+Florida,2015,28.4,87.6
+Florida,2016,28.6,87.4
+Florida,2017,29.7,88.4
+Florida,2018,30.4,88.5
+Florida,2019,30.7,88.4
+Florida,2020,33.7,89.6
+Georgia,2011,27.6,84.3
+Georgia,2012,28.2,85.0
+Georgia,2013,28.3,85.5
+Georgia,2014,29.1,85.6
+Georgia,2015,29.9,86.1
+Georgia,2016,30.5,86.4
+Georgia,2017,30.9,87.0
+Georgia,2018,31.9,87.6
+Georgia,2019,32.5,87.9
+Georgia,2020,34.8,89.3
+Hawaii,2011,29.1,90.6
+Hawaii,2012,30.1,90.4
+Hawaii,2013,31.2,91.0
+Hawaii,2014,31.0,91.7
+Hawaii,2015,31.4,90.9
+Hawaii,2016,31.9,92.0
+Hawaii,2017,32.9,92.3
+Hawaii,2018,33.5,92.0
+Hawaii,2019,33.6,92.4
+Hawaii,2020,35.5,93.3
+Iowa,2011,25.8,90.6
+Iowa,2012,26.3,91.6
+Iowa,2013,26.4,91.6
+Iowa,2014,27.7,92.1
+Iowa,2015,26.8,91.7
+Iowa,2016,28.4,91.8
+Iowa,2017,28.9,92.1
+Iowa,2018,29.0,92.3
+Iowa,2019,29.3,92.6
+Iowa,2020,29.5,93.1
+Idaho,2011,25.2,88.6
+Idaho,2012,25.5,89.8
+Idaho,2013,26.2,89.4
+Idaho,2014,25.0,90.1
+Idaho,2015,26.0,90.0
+Idaho,2016,27.6,90.4
+Idaho,2017,26.8,90.8
+Idaho,2018,27.7,90.9
+Idaho,2019,28.7,91.5
+Idaho,2020,30.9,91.3
+Illinois,2011,31.0,87.2
+Illinois,2012,31.6,87.6
+Illinois,2013,32.1,87.8
+Illinois,2014,32.8,88.2
+Illinois,2015,32.9,88.6
+Illinois,2016,34.0,88.8
+Illinois,2017,34.4,89.1
+Illinois,2018,35.1,89.5
+Illinois,2019,35.8,89.8
+Illinois,2020,37.6,90.4
+Indiana,2011,23.0,87.3
+Indiana,2012,23.4,87.6
+Indiana,2013,23.8,87.6
+Indiana,2014,24.7,88.4
+Indiana,2015,24.9,88.2
+Indiana,2016,25.6,88.4
+Indiana,2017,26.8,88.6
+Indiana,2018,27.1,89.0
+Indiana,2019,26.9,89.6
+Indiana,2020,28.9,90.2
+Kansas,2011,30.1,90.0
+Kansas,2012,30.4,90.2
+Kansas,2013,31.1,90.1
+Kansas,2014,31.5,90.3
+Kansas,2015,31.7,90.3
+Kansas,2016,32.8,90.5
+Kansas,2017,33.7,91.0
+Kansas,2018,33.8,91.0
+Kansas,2019,34.0,91.8
+Kansas,2020,35.1,91.8
+Kentucky,2011,21.1,83.1
+Kentucky,2012,21.8,83.8
+Kentucky,2013,22.6,84.1
+Kentucky,2014,22.2,84.5
+Kentucky,2015,23.3,85.1
+Kentucky,2016,23.4,85.7
+Kentucky,2017,24.0,86.3
+Kentucky,2018,24.8,86.8
+Kentucky,2019,25.1,87.2
+Kentucky,2020,27.4,88.7
+Louisiana,2011,21.1,82.5
+Louisiana,2012,22.0,83.0
+Louisiana,2013,22.5,83.1
+Louisiana,2014,22.9,83.6
+Louisiana,2015,23.2,84.6
+Louisiana,2016,23.4,84.4
+Louisiana,2017,23.8,85.1
+Louisiana,2018,24.3,85.8
+Louisiana,2019,25.0,86.0
+Louisiana,2020,27.2,86.9
+Massachusetts,2011,39.1,89.2
+Massachusetts,2012,39.3,89.7
+Massachusetts,2013,40.3,89.9
+Massachusetts,2014,41.2,89.7
+Massachusetts,2015,41.5,90.2
+Massachusetts,2016,42.7,90.4
+Massachusetts,2017,43.4,90.8
+Massachusetts,2018,44.5,90.8
+Massachusetts,2019,45.0,91.3
+Massachusetts,2020,46.9,91.3
+Maryland,2011,36.9,88.9
+Maryland,2012,36.9,89.1
+Maryland,2013,37.4,89.1
+Maryland,2014,38.2,89.6
+Maryland,2015,38.8,89.6
+Maryland,2016,39.3,90.1
+Maryland,2017,39.7,89.9
+Maryland,2018,40.8,90.5
+Maryland,2019,40.9,90.4
+Maryland,2020,43.1,91.1
+Maine,2011,28.4,90.9
+Maine,2012,28.0,91.6
+Maine,2013,28.2,91.8
+Maine,2014,29.4,91.7
+Maine,2015,30.1,91.7
+Maine,2016,30.1,92.3
+Maine,2017,32.1,92.3
+Maine,2018,31.5,93.0
+Maine,2019,33.2,93.2
+Maine,2020,33.5,93.6
+Michigan,2011,25.6,88.8
+Michigan,2012,26.0,89.2
+Michigan,2013,26.9,89.4
+Michigan,2014,27.4,89.9
+Michigan,2015,27.8,90.1
+Michigan,2016,28.3,90.4
+Michigan,2017,29.1,90.9
+Michigan,2018,29.6,91.1
+Michigan,2019,30.0,91.4
+Michigan,2020,32.1,92.0
+Minnesota,2011,32.4,92.0
+Minnesota,2012,33.2,92.5
+Minnesota,2013,33.5,92.4
+Minnesota,2014,34.3,92.6
+Minnesota,2015,34.7,92.8
+Minnesota,2016,34.8,92.9
+Minnesota,2017,36.1,93.1
+Minnesota,2018,36.7,93.4
+Minnesota,2019,37.3,93.6
+Minnesota,2020,37.9,93.8
+Missouri,2011,26.1,87.6
+Missouri,2012,26.4,88.0
+Missouri,2013,27.0,88.7
+Missouri,2014,27.5,88.9
+Missouri,2015,27.8,88.9
+Missouri,2016,28.5,89.6
+Missouri,2017,29.1,89.7
+Missouri,2018,29.5,90.5
+Missouri,2019,30.2,90.7
+Missouri,2020,31.9,91.4
+Mississippi,2011,19.8,81.1
+Mississippi,2012,20.7,82.3
+Mississippi,2013,20.4,82.4
+Mississippi,2014,21.1,82.8
+Mississippi,2015,20.8,83.5
+Mississippi,2016,21.8,84.1
+Mississippi,2017,21.9,84.4
+Mississippi,2018,23.2,85.4
+Mississippi,2019,22.3,85.3
+Mississippi,2020,24.5,86.8
+Montana,2011,28.2,92.3
+Montana,2012,29.4,92.8
+Montana,2013,29.0,92.7
+Montana,2014,29.3,92.6
+Montana,2015,30.6,93.5
+Montana,2016,31.0,92.8
+Montana,2017,32.3,93.0
+Montana,2018,31.7,93.9
+Montana,2019,33.6,94.2
+Montana,2020,34.6,94.4
+North Carolina,2011,26.9,84.7
+North Carolina,2012,27.4,85.2
+North Carolina,2013,28.4,85.7
+North Carolina,2014,28.7,86.4
+North Carolina,2015,29.4,86.6
+North Carolina,2016,30.4,87.3
+North Carolina,2017,31.3,87.8
+North Carolina,2018,31.9,88.2
+North Carolina,2019,32.3,88.6
+North Carolina,2020,34.8,90.3
+North Dakota,2011,26.3,90.7
+North Dakota,2012,27.9,91.7
+North Dakota,2013,27.1,91.5
+North Dakota,2014,27.4,92.2
+North Dakota,2015,29.1,92.5
+North Dakota,2016,29.6,92.4
+North Dakota,2017,30.7,92.9
+North Dakota,2018,29.7,92.3
+North Dakota,2019,30.4,93.5
+North Dakota,2020,31.8,93.5
+Nebraska,2011,27.9,91.0
+Nebraska,2012,29.0,90.5
+Nebraska,2013,29.4,90.2
+Nebraska,2014,29.5,90.3
+Nebraska,2015,30.2,91.0
+Nebraska,2016,31.4,90.9
+Nebraska,2017,31.7,91.3
+Nebraska,2018,32.4,91.4
+Nebraska,2019,33.2,92.0
+Nebraska,2020,33.3,91.9
+New Hampshire,2011,33.4,91.4
+New Hampshire,2012,34.6,91.8
+New Hampshire,2013,34.6,92.8
+New Hampshire,2014,35.0,92.2
+New Hampshire,2015,35.7,93.1
+New Hampshire,2016,36.6,92.8
+New Hampshire,2017,36.9,93.1
+New Hampshire,2018,36.8,93.1
+New Hampshire,2019,37.6,93.3
+New Hampshire,2020,40.2,94.1
+New Jersey,2011,35.3,88.1
+New Jersey,2012,36.2,88.3
+New Jersey,2013,36.6,88.5
+New Jersey,2014,37.4,89.1
+New Jersey,2015,37.6,89.1
+New Jersey,2016,38.6,89.3
+New Jersey,2017,39.7,89.9
+New Jersey,2018,40.8,90.2
+New Jersey,2019,41.2,90.3
+New Jersey,2020,43.1,90.9
+New Mexico,2011,25.6,83.2
+New Mexico,2012,26.1,84.4
+New Mexico,2013,26.4,84.3
+New Mexico,2014,26.4,84.2
+New Mexico,2015,26.5,84.6
+New Mexico,2016,27.2,85.4
+New Mexico,2017,27.1,86.1
+New Mexico,2018,27.7,85.4
+New Mexico,2019,27.7,85.9
+New Mexico,2020,30.1,87.8
+Nevada,2011,22.5,84.0
+Nevada,2012,22.4,84.9
+Nevada,2013,22.5,85.2
+Nevada,2014,23.1,85.1
+Nevada,2015,23.6,85.6
+Nevada,2016,23.5,86.0
+Nevada,2017,24.9,86.8
+Nevada,2018,24.9,86.9
+Nevada,2019,25.7,86.9
+Nevada,2020,28.0,87.2
+New York,2011,32.9,85.0
+New York,2012,33.4,85.3
+New York,2013,34.1,85.6
+New York,2014,34.5,85.7
+New York,2015,35.0,86.0
+New York,2016,35.7,86.3
+New York,2017,36.0,86.6
+New York,2018,37.2,87.1
+New York,2019,37.8,87.6
+New York,2020,39.5,87.8
+Ohio,2011,24.7,88.3
+Ohio,2012,25.2,88.8
+Ohio,2013,26.1,89.0
+Ohio,2014,26.6,89.4
+Ohio,2015,26.8,89.7
+Ohio,2016,27.5,90.0
+Ohio,2017,28.0,90.3
+Ohio,2018,29.0,90.7
+Ohio,2019,29.3,90.8
+Ohio,2020,30.6,91.5
+Oklahoma,2011,23.8,86.3
+Oklahoma,2012,23.8,86.7
+Oklahoma,2013,23.8,86.7
+Oklahoma,2014,24.2,87.3
+Oklahoma,2015,24.6,87.3
+Oklahoma,2016,25.2,87.8
+Oklahoma,2017,25.5,88.1
+Oklahoma,2018,25.6,88.4
+Oklahoma,2019,26.2,88.4
+Oklahoma,2020,27.0,89.2
+Oregon,2011,29.3,89.4
+Oregon,2012,29.9,89.9
+Oregon,2013,30.7,89.7
+Oregon,2014,30.8,89.7
+Oregon,2015,32.2,90.0
+Oregon,2016,32.7,90.3
+Oregon,2017,33.7,91.0
+Oregon,2018,34.0,90.5
+Oregon,2019,34.5,91.4
+Oregon,2020,36.3,91.9
+Pennsylvania,2011,27.0,88.6
+Pennsylvania,2012,27.8,88.9
+Pennsylvania,2013,28.7,89.2
+Pennsylvania,2014,29.0,89.4
+Pennsylvania,2015,29.7,89.7
+Pennsylvania,2016,30.8,90.1
+Pennsylvania,2017,31.4,90.6
+Pennsylvania,2018,31.8,91.0
+Pennsylvania,2019,32.3,91.0
+Pennsylvania,2020,34.0,91.6
+Rhode Island,2011,31.1,84.8
+Rhode Island,2012,31.4,86.1
+Rhode Island,2013,32.4,85.9
+Rhode Island,2014,30.4,85.8
+Rhode Island,2015,32.7,87.7
+Rhode Island,2016,34.1,88.5
+Rhode Island,2017,33.5,88.3
+Rhode Island,2018,34.4,89.1
+Rhode Island,2019,34.8,89.3
+Rhode Island,2020,38.0,90.1
+South Carolina,2011,24.1,84.2
+South Carolina,2012,25.1,84.9
+South Carolina,2013,26.1,85.6
+South Carolina,2014,26.3,86.1
+South Carolina,2015,26.8,86.3
+South Carolina,2016,27.2,86.6
+South Carolina,2017,28.0,87.4
+South Carolina,2018,28.3,88.4
+South Carolina,2019,29.6,88.3
+South Carolina,2020,31.7,89.4
+South Dakota,2011,26.3,90.6
+South Dakota,2012,26.3,90.5
+South Dakota,2013,26.6,91.6
+South Dakota,2014,27.8,91.7
+South Dakota,2015,27.5,91.1
+South Dakota,2016,28.9,91.2
+South Dakota,2017,28.1,91.7
+South Dakota,2018,29.2,92.3
+South Dakota,2019,29.7,92.1
+South Dakota,2020,28.4,92.2
+Tennessee,2011,23.6,84.2
+Tennessee,2012,24.3,85.1
+Tennessee,2013,24.8,85.6
+Tennessee,2014,25.3,85.8
+Tennessee,2015,25.7,86.1
+Tennessee,2016,26.1,87.0
+Tennessee,2017,27.3,87.8
+Tennessee,2018,27.5,87.8
+Tennessee,2019,28.7,88.0
+Tennessee,2020,30.7,89.7
+Texas,2011,26.4,81.1
+Texas,2012,26.7,81.4
+Texas,2013,27.5,81.9
+Texas,2014,27.8,82.2
+Texas,2015,28.4,82.4
+Texas,2016,28.9,82.9
+Texas,2017,29.6,83.6
+Texas,2018,30.3,84.0
+Texas,2019,30.8,84.6
+Texas,2020,33.2,85.8
+Utah,2011,29.7,90.3
+Utah,2012,30.7,91.0
+Utah,2013,31.3,91.5
+Utah,2014,31.1,91.4
+Utah,2015,31.8,91.5
+Utah,2016,32.6,91.7
+Utah,2017,34.6,92.1
+Utah,2018,34.9,92.4
+Utah,2019,34.8,93.0
+Utah,2020,36.9,94.0
+Virginia,2011,35.1,87.8
+Virginia,2012,35.5,87.9
+Virginia,2013,36.1,88.4
+Virginia,2014,36.7,88.5
+Virginia,2015,37.0,88.9
+Virginia,2016,38.1,89.3
+Virginia,2017,38.7,89.7
+Virginia,2018,39.3,89.9
+Virginia,2019,39.6,90.0
+Virginia,2020,42.0,91.4
+Vermont,2011,35.4,91.8
+Vermont,2012,35.8,91.7
+Vermont,2013,35.7,91.5
+Vermont,2014,34.9,92.0
+Vermont,2015,36.9,91.7
+Vermont,2016,36.4,92.1
+Vermont,2017,38.3,92.6
+Vermont,2018,38.7,93.5
+Vermont,2019,38.7,93.1
+Vermont,2020,42.1,94.2
+Washington,2011,31.9,90.1
+Washington,2012,31.7,90.4
+Washington,2013,32.7,90.1
+Washington,2014,33.1,90.4
+Washington,2015,34.2,90.8
+Washington,2016,35.1,90.8
+Washington,2017,35.5,91.3
+Washington,2018,36.7,91.6
+Washington,2019,37.0,91.7
+Washington,2020,38.4,92.1
+Wisconsin,2011,26.5,90.4
+Wisconsin,2012,27.1,90.7
+Wisconsin,2013,27.7,90.9
+Wisconsin,2014,28.4,91.4
+Wisconsin,2015,28.4,91.4
+Wisconsin,2016,29.5,91.9
+Wisconsin,2017,30.4,92.4
+Wisconsin,2018,30.0,92.1
+Wisconsin,2019,31.3,92.8
+Wisconsin,2020,31.8,93.1
+West Virginia,2011,18.5,84.2
+West Virginia,2012,18.6,84.5
+West Virginia,2013,18.9,84.6
+West Virginia,2014,19.2,85.2
+West Virginia,2015,19.6,86.0
+West Virginia,2016,20.8,86.0
+West Virginia,2017,20.2,87.1
+West Virginia,2018,21.3,87.8
+West Virginia,2019,21.1,87.1
+West Virginia,2020,23.1,89.1
+Wyoming,2011,24.7,92.0
+Wyoming,2012,24.7,91.7
+Wyoming,2013,26.6,93.5
+Wyoming,2014,26.6,92.6
+Wyoming,2015,26.2,92.2
+Wyoming,2016,27.1,93.2
+Wyoming,2017,27.6,92.9
+Wyoming,2018,26.9,93.3
+Wyoming,2019,29.1,94.5
+Wyoming,2020,28.2,93.8
