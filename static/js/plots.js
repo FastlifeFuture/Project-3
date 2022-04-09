@@ -1,3 +1,8 @@
+d3.json("/static/data/state_data.json").then(function(data) {
+    
+    state_dict = data;
+  });
+
 function PlotState(state){
     year = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
    
