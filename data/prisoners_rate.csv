@@ -1,0 +1,562 @@
+State,Date,Prisoners Rate of change
+Alaska,2010,0.1919
+Alaska,2011,0.1525
+Alaska,2012,-0.3667
+Alaska,2013,0.082
+Alaska,2014,0.1107
+Alaska,2015,0.1367
+Alaska,2016,-0.0558
+Alaska,2017,-0.0632
+Alaska,2018,-0.0673
+Alaska,2019,-0.0471
+Alaska,2020,-0.0251
+Alabama,2010,0.0797
+Alabama,2011,0.0969
+Alabama,2012,0.0686
+Alabama,2013,0.1007
+Alabama,2014,0.0799
+Alabama,2015,0.0473
+Alabama,2016,-0.0182
+Alabama,2017,-0.0616
+Alabama,2018,-0.0876
+Alabama,2019,-0.0379
+Alabama,2020,-0.1391
+Arkansas,2010,0.1454
+Arkansas,2011,0.1386
+Arkansas,2012,0.0331
+Arkansas,2013,0.2183
+Arkansas,2014,0.2634
+Arkansas,2015,0.2516
+Arkansas,2016,0.2396
+Arkansas,2017,0.2773
+Arkansas,2018,0.2581
+Arkansas,2019,0.2553
+Arkansas,2020,0.1376
+Arizona,2010,0.089
+Arizona,2011,0.086
+Arizona,2012,0.0421
+Arizona,2013,0.1154
+Arizona,2014,0.1468
+Arizona,2015,0.1593
+Arizona,2016,0.1484
+Arizona,2017,0.1406
+Arizona,2018,0.1399
+Arizona,2019,0.1517
+Arizona,2020,0.0239
+California,2010,0.0298
+California,2011,-0.0669
+California,2012,-0.1627
+California,2013,-0.1516
+California,2014,-0.151
+California,2015,-0.1915
+California,2016,-0.1865
+California,2017,-0.1825
+California,2018,-0.1975
+California,2019,-0.2346
+California,2020,-0.3928
+Colorado,2010,0.1025
+Colorado,2011,0.062
+Colorado,2012,-0.0112
+Colorado,2013,-0.0156
+Colorado,2014,-0.0023
+Colorado,2015,-0.0254
+Colorado,2016,-0.0345
+Colorado,2017,-0.0361
+Colorado,2018,-0.0156
+Colorado,2019,-0.0439
+Colorado,2020,-0.2187
+Connecticut,2010,0.0511
+Connecticut,2011,-0.0031
+Connecticut,2012,-0.3493
+Connecticut,2013,-0.0445
+Connecticut,2014,-0.0949
+Connecticut,2015,-0.1395
+Connecticut,2016,-0.1863
+Connecticut,2017,-0.2362
+Connecticut,2018,-0.2557
+Connecticut,2019,-0.3024
+Connecticut,2020,-0.48
+District of Columbia,2010,0.0
+District of Columbia,2011,0.0
+District of Columbia,2012,0.0
+District of Columbia,2013,0.0
+District of Columbia,2014,0.0
+District of Columbia,2015,0.0
+District of Columbia,2016,0.0
+District of Columbia,2017,0.0
+District of Columbia,2018,0.0
+District of Columbia,2019,0.0
+District of Columbia,2020,0.0
+Delaware,2010,0.0471
+Delaware,2011,0.0695
+Delaware,2012,-0.3447
+Delaware,2013,0.1116
+Delaware,2014,0.1038
+Delaware,2015,0.056
+Delaware,2016,0.0451
+Delaware,2017,0.0225
+Delaware,2018,-0.0371
+Delaware,2019,-0.0967
+Delaware,2020,-0.2525
+Florida,2010,0.0794
+Florida,2011,0.0665
+Florida,2012,0.0548
+Florida,2013,0.0662
+Florida,2014,0.0646
+Florida,2015,0.0496
+Florida,2016,0.0346
+Florida,2017,0.0194
+Florida,2018,0.0094
+Florida,2019,-0.0064
+Florida,2020,-0.1615
+Georgia,2010,0.1378
+Georgia,2011,0.128
+Georgia,2012,0.0886
+Georgia,2013,0.0889
+Georgia,2014,0.0676
+Georgia,2015,0.0523
+Georgia,2016,0.0813
+Georgia,2017,0.0821
+Georgia,2018,0.0817
+Georgia,2019,0.1052
+Georgia,2020,-0.0495
+Hawaii,2010,0.1391
+Hawaii,2011,0.1632
+Hawaii,2012,-0.2642
+Hawaii,2013,0.0852
+Hawaii,2014,0.1303
+Hawaii,2015,0.1328
+Hawaii,2016,0.0794
+Hawaii,2017,0.0848
+Hawaii,2018,0.0356
+Hawaii,2019,0.0171
+Hawaii,2020,-0.1963
+Iowa,2010,0.1687
+Iowa,2011,0.1268
+Iowa,2012,0.0737
+Iowa,2013,0.075
+Iowa,2014,0.0925
+Iowa,2015,0.0938
+Iowa,2016,0.1163
+Iowa,2017,0.1155
+Iowa,2018,0.1643
+Iowa,2019,0.1473
+Iowa,2020,0.0268
+Idaho,2010,0.1164
+Idaho,2011,0.1627
+Idaho,2012,0.1997
+Idaho,2013,0.1342
+Idaho,2014,0.2195
+Idaho,2015,0.2097
+Idaho,2016,0.2398
+Idaho,2017,0.2889
+Idaho,2018,0.3017
+Idaho,2019,0.4178
+Idaho,2020,0.2276
+Illinois,2010,0.1373
+Illinois,2011,0.1376
+Illinois,2012,0.1592
+Illinois,2013,0.1429
+Illinois,2014,0.1341
+Illinois,2015,0.0862
+Illinois,2016,0.0255
+Illinois,2017,-0.0258
+Illinois,2018,-0.0612
+Illinois,2019,-0.1013
+Illinois,2020,-0.3017
+Indiana,2010,0.0656
+Indiana,2011,0.099
+Indiana,2012,0.0958
+Indiana,2013,0.1373
+Indiana,2014,0.1129
+Indiana,2015,0.04
+Indiana,2016,-0.0287
+Indiana,2017,-0.0106
+Indiana,2018,0.0219
+Indiana,2019,0.0334
+Indiana,2020,-0.0897
+Kansas,2010,0.1207
+Kansas,2011,0.1549
+Kansas,2012,0.1637
+Kansas,2013,0.2089
+Kansas,2014,0.1965
+Kansas,2015,0.2205
+Kansas,2016,0.2283
+Kansas,2017,0.2346
+Kansas,2018,0.2652
+Kansas,2019,0.2602
+Kansas,2020,0.087
+Kentucky,2010,0.0621
+Kentucky,2011,0.1138
+Kentucky,2012,0.1098
+Kentucky,2013,0.0872
+Kentucky,2014,0.1196
+Kentucky,2015,0.1219
+Kentucky,2016,0.1902
+Kentucky,2017,0.2171
+Kentucky,2018,0.2113
+Kentucky,2019,0.1933
+Kentucky,2020,-0.0409
+Louisiana,2010,0.0614
+Louisiana,2011,0.0685
+Louisiana,2012,0.0809
+Louisiana,2013,0.0574
+Louisiana,2014,0.0233
+Louisiana,2015,-0.0212
+Louisiana,2016,-0.0399
+Louisiana,2017,-0.0922
+Louisiana,2018,-0.1283
+Louisiana,2019,-0.1495
+Louisiana,2020,-0.2745
+Massachusetts,2010,0.0675
+Massachusetts,2011,0.0968
+Massachusetts,2012,-0.0564
+Massachusetts,2013,0.0333
+Massachusetts,2014,0.0109
+Massachusetts,2015,-0.0637
+Massachusetts,2016,-0.1127
+Massachusetts,2017,-0.1382
+Massachusetts,2018,-0.1798
+Massachusetts,2019,-0.2257
+Massachusetts,2020,-0.3619
+Maryland,2010,0.0679
+Maryland,2011,0.0638
+Maryland,2012,0.0035
+Maryland,2013,0.0061
+Maryland,2014,-0.0092
+Maryland,2015,-0.0208
+Maryland,2016,-0.0572
+Maryland,2017,-0.0867
+Maryland,2018,-0.1108
+Maryland,2019,-0.1231
+Maryland,2020,-0.2633
+Maine,2010,0.0518
+Maine,2011,0.0474
+Maine,2012,-0.0566
+Maine,2013,0.061
+Maine,2014,0.0947
+Maine,2015,0.1128
+Maine,2016,0.1738
+Maine,2017,0.1738
+Maine,2018,0.1841
+Maine,2019,0.0669
+Maine,2020,-0.1631
+Michigan,2010,0.0089
+Michigan,2011,-0.0179
+Michigan,2012,-0.003
+Michigan,2013,0.0008
+Michigan,2014,-0.0076
+Michigan,2015,-0.025
+Michigan,2016,-0.0595
+Michigan,2017,-0.0928
+Michigan,2018,-0.1135
+Michigan,2019,-0.1297
+Michigan,2020,-0.2311
+Minnesota,2010,0.052
+Minnesota,2011,0.0524
+Minnesota,2012,0.0672
+Minnesota,2013,0.1049
+Minnesota,2014,0.1423
+Minnesota,2015,0.1596
+Minnesota,2016,0.1375
+Minnesota,2017,0.1499
+Minnesota,2018,0.0847
+Minnesota,2019,0.072
+Minnesota,2020,-0.125
+Missouri,2010,0.0884
+Missouri,2011,0.0959
+Missouri,2012,0.1105
+Missouri,2013,0.1209
+Missouri,2014,0.1353
+Missouri,2015,0.1491
+Missouri,2016,0.1537
+Missouri,2017,0.1587
+Missouri,2018,0.0794
+Missouri,2019,-0.0744
+Missouri,2020,-0.1803
+Mississippi,2010,0.0668
+Mississippi,2011,0.083
+Mississippi,2012,0.085
+Mississippi,2013,0.1125
+Mississippi,2014,-0.0483
+Mississippi,2015,-0.0423
+Mississippi,2016,-0.0281
+Mississippi,2017,-0.0326
+Mississippi,2018,-0.0239
+Mississippi,2019,-0.0167
+Mississippi,2020,-0.1099
+Montana,2010,0.1562
+Montana,2011,0.1444
+Montana,2012,0.1229
+Montana,2013,0.1332
+Montana,2014,0.1509
+Montana,2015,0.1465
+Montana,2016,0.1867
+Montana,2017,0.1506
+Montana,2018,0.1714
+Montana,2019,0.4695
+Montana,2020,0.2218
+North Carolina,2010,0.0827
+North Carolina,2011,0.0644
+North Carolina,2012,-0.0558
+North Carolina,2013,-0.0035
+North Carolina,2014,0.0012
+North Carolina,2015,-0.0117
+North Carolina,2016,-0.0366
+North Carolina,2017,-0.0178
+North Carolina,2018,-0.0581
+North Carolina,2019,-0.0802
+North Carolina,2020,-0.2049
+North Dakota,2010,0.1334
+North Dakota,2011,0.0846
+North Dakota,2012,0.1524
+North Dakota,2013,0.1532
+North Dakota,2014,0.3095
+North Dakota,2015,0.3681
+North Dakota,2016,0.3651
+North Dakota,2017,0.3133
+North Dakota,2018,0.2919
+North Dakota,2019,0.3674
+North Dakota,2020,0.0678
+Nebraska,2010,0.1166
+Nebraska,2011,0.1237
+Nebraska,2012,0.1183
+Nebraska,2013,0.2235
+Nebraska,2014,0.3245
+Nebraska,2015,0.3077
+Nebraska,2016,0.2907
+Nebraska,2017,0.2933
+Nebraska,2018,0.3367
+Nebraska,2019,0.3832
+Nebraska,2020,0.2916
+New Hampshire,2010,0.0768
+New Hampshire,2011,0.0195
+New Hampshire,2012,0.0881
+New Hampshire,2013,0.1771
+New Hampshire,2014,0.1556
+New Hampshire,2015,0.1299
+New Hampshire,2016,0.0991
+New Hampshire,2017,0.0725
+New Hampshire,2018,0.0616
+New Hampshire,2019,0.0495
+New Hampshire,2020,-0.0827
+New Jersey,2010,0.0344
+New Jersey,2011,-0.0141
+New Jersey,2012,-0.0393
+New Jersey,2013,-0.0713
+New Jersey,2014,-0.107
+New Jersey,2015,-0.1525
+New Jersey,2016,-0.1816
+New Jersey,2017,-0.1899
+New Jersey,2018,-0.1991
+New Jersey,2019,-0.2301
+New Jersey,2020,-0.4693
+New Mexico,2010,0.1365
+New Mexico,2011,0.1944
+New Mexico,2012,0.122
+New Mexico,2013,0.169
+New Mexico,2014,0.1983
+New Mexico,2015,0.2236
+New Mexico,2016,0.2041
+New Mexico,2017,0.2419
+New Mexico,2018,0.1999
+New Mexico,2019,0.1475
+New Mexico,2020,-0.0613
+Nevada,2010,0.0971
+Nevada,2011,0.108
+Nevada,2012,0.105
+Nevada,2013,0.1321
+Nevada,2014,0.0871
+Nevada,2015,0.1334
+Nevada,2016,0.1928
+Nevada,2017,0.1854
+Nevada,2018,0.1828
+Nevada,2019,0.1133
+Nevada,2020,-0.0096
+New York,2010,0.0081
+New York,2011,-0.0136
+New York,2012,-0.0378
+New York,2013,-0.0471
+New York,2014,-0.0655
+New York,2015,-0.0796
+New York,2016,-0.0975
+New York,2017,-0.1199
+New York,2018,-0.1701
+New York,2019,-0.226
+New York,2020,-0.3927
+Ohio,2010,0.086
+Ohio,2011,0.0703
+Ohio,2012,0.0684
+Ohio,2013,0.0864
+Ohio,2014,0.0819
+Ohio,2015,0.0969
+Ohio,2016,0.0957
+Ohio,2017,0.0811
+Ohio,2018,0.0591
+Ohio,2019,0.0571
+Ohio,2020,-0.0542
+Oklahoma,2010,0.1043
+Oklahoma,2011,0.0928
+Oklahoma,2012,0.0445
+Oklahoma,2013,0.1588
+Oklahoma,2014,0.1631
+Oklahoma,2015,0.2009
+Oklahoma,2016,0.1304
+Oklahoma,2017,0.1839
+Oklahoma,2018,0.1339
+Oklahoma,2019,0.0802
+Oklahoma,2020,-0.0551
+Oregon,2010,0.0554
+Oregon,2011,0.0928
+Oregon,2012,0.1147
+Oregon,2013,0.157
+Oregon,2014,0.1353
+Oregon,2015,0.1481
+Oregon,2016,0.1422
+Oregon,2017,0.1461
+Oregon,2018,0.1499
+Oregon,2019,0.1268
+Oregon,2020,-0.0395
+Pennsylvania,2010,0.0548
+Pennsylvania,2011,0.0613
+Pennsylvania,2012,0.0477
+Pennsylvania,2013,0.0352
+Pennsylvania,2014,0.0431
+Pennsylvania,2015,0.0259
+Pennsylvania,2016,0.0132
+Pennsylvania,2017,-0.0055
+Pennsylvania,2018,-0.028
+Pennsylvania,2019,-0.0596
+Pennsylvania,2020,-0.1902
+Rhode Island,2010,-0.0253
+Rhode Island,2011,-0.0311
+Rhode Island,2012,-0.4196
+Rhode Island,2013,-0.0241
+Rhode Island,2014,-0.0247
+Rhode Island,2015,-0.0569
+Rhode Island,2016,-0.099
+Rhode Island,2017,-0.1693
+Rhode Island,2018,-0.1966
+Rhode Island,2019,-0.2044
+Rhode Island,2020,-0.3534
+South Carolina,2010,0.0354
+South Carolina,2011,0.0063
+South Carolina,2012,-0.0459
+South Carolina,2013,-0.0312
+South Carolina,2014,-0.0602
+South Carolina,2015,-0.0809
+South Carolina,2016,-0.084
+South Carolina,2017,-0.1258
+South Carolina,2018,-0.1642
+South Carolina,2019,-0.1828
+South Carolina,2020,-0.2905
+South Dakota,2010,0.1244
+South Dakota,2011,0.1575
+South Dakota,2012,0.1932
+South Dakota,2013,0.1955
+South Dakota,2014,0.1814
+South Dakota,2015,0.167
+South Dakota,2016,0.2544
+South Dakota,2017,0.2999
+South Dakota,2018,0.2927
+South Dakota,2019,0.2446
+South Dakota,2020,0.0642
+Tennessee,2010,0.1
+Tennessee,2011,0.1412
+Tennessee,2012,0.1384
+Tennessee,2013,0.1429
+Tennessee,2014,0.1528
+Tennessee,2015,0.1289
+Tennessee,2016,0.1301
+Tennessee,2017,0.1612
+Tennessee,2018,0.0547
+Tennessee,2019,0.0558
+Tennessee,2020,-0.091
+Texas,2010,0.1013
+Texas,2011,0.0922
+Texas,2012,0.0014
+Texas,2013,0.0672
+Texas,2014,0.053
+Texas,2015,0.0395
+Texas,2016,0.0382
+Texas,2017,0.0307
+Texas,2018,0.0377
+Texas,2019,0.0048
+Texas,2020,-0.7108
+Utah,2010,0.1436
+Utah,2011,0.1557
+Utah,2012,0.1694
+Utah,2013,0.1887
+Utah,2014,0.1804
+Utah,2015,0.0907
+Utah,2016,0.0386
+Utah,2017,0.0825
+Utah,2018,0.1174
+Utah,2019,0.1198
+Utah,2020,-0.085
+Virginia,2010,0.0631
+Virginia,2011,0.0836
+Virginia,2012,0.0527
+Virginia,2013,0.051
+Virginia,2014,0.067
+Virginia,2015,0.0914
+Virginia,2016,0.0746
+Virginia,2017,0.056
+Virginia,2018,0.0418
+Virginia,2019,0.0257
+Virginia,2020,-0.0952
+Vermont,2010,0.0068
+Vermont,2011,-0.0058
+Vermont,2012,-0.2659
+Vermont,2013,0.0063
+Vermont,2014,-0.0416
+Vermont,2015,-0.1525
+Vermont,2016,-0.1598
+Vermont,2017,-0.2513
+Vermont,2018,-0.1966
+Vermont,2019,-0.2213
+Vermont,2020,-0.3782
+Washington,2010,0.0831
+Washington,2011,0.06
+Washington,2012,0.0248
+Washington,2013,0.0682
+Washington,2014,0.0763
+Washington,2015,0.086
+Washington,2016,0.1347
+Washington,2017,0.1675
+Washington,2018,0.1596
+Washington,2019,0.144
+Washington,2020,-0.066
+Wisconsin,2010,0.0401
+Wisconsin,2011,0.0369
+Wisconsin,2012,-0.0629
+Wisconsin,2013,0.0285
+Wisconsin,2014,0.0343
+Wisconsin,2015,0.0516
+Wisconsin,2016,0.07
+Wisconsin,2017,0.096
+Wisconsin,2018,0.1014
+Wisconsin,2019,0.0965
+Wisconsin,2020,-0.0709
+West Virginia,2010,0.1756
+West Virginia,2011,0.2011
+West Virginia,2012,0.2365
+West Virginia,2013,0.2008
+West Virginia,2014,0.2134
+West Virginia,2015,0.2525
+West Virginia,2016,0.2602
+West Virginia,2017,0.2479
+West Virginia,2018,0.1922
+West Virginia,2019,0.1966
+West Virginia,2020,0.0635
+Wyoming,2010,0.1349
+Wyoming,2011,0.173
+Wyoming,2012,0.1843
+Wyoming,2013,0.2413
+Wyoming,2014,0.2805
+Wyoming,2015,0.3025
+Wyoming,2016,0.2757
+Wyoming,2017,0.3289
+Wyoming,2018,0.3665
+Wyoming,2019,0.3321
+Wyoming,2020,0.1214
