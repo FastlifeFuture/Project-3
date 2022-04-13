@@ -1,7 +1,10 @@
-d3.json("/static/data/state_data.json").then(function(data) {
-    
+
+d3.json("projects/Project-3/static/data/state_data.json").then(function(data) {
+    console.log(data)
     state_dict = data;
   });
+
+console.log(state_dict)
 
 function PlotState(state){
     year = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
@@ -49,6 +52,7 @@ function PlotState(state){
 
     Plotly.newPlot("plot", data, layout);
 }
+PlotState(`${state}`)
 
 // // Creating the map object
 // var myMap = L.map("map", {
