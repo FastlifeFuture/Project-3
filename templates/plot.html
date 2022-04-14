@@ -41,41 +41,41 @@
       console.log(dataset)
       var state_dict = dataset;
   
-      var gdp_trace = {
-      x: year,
-      y: {{statedb.GDP}},
-      type: 'line', 
-      name: "GDP ($10,000)"
-      };
-  
-      var hs_trace = {
-          x: year,
-          y: {{statedb['High School']}},
-          type: 'line', 
-          name: "High school graduation rate"
-      };
-  
-      var college_trace = {
-          x: year,
-          y: {{statedb.College}},
-          type: 'line', 
-          name: "Bachelor's or higher rate"
-      };
-  
-      var employment_trace = {
-          x: year,
-          y: {{statedb['Employment Rate']}},
-          type: 'line',
-          name: "Employment rate"
-      };
-  
-      // let happiness_trace = {
-      //     x: year,
-      //     y: state['GDP'],
-      //     type: 'line'
+      // var gdp_trace = {
+      // x: year,
+      // y: {{statedb.GDP}},
+      // type: 'line', 
+      // name: "GDP ($10,000)"
       // };
   
-      let data = [gdp_trace, hs_trace,college_trace,employment_trace];
+      // var hs_trace = {
+      //     x: year,
+      //     y: {{statedb['High School']}},
+      //     type: 'line', 
+      //     name: "High school graduation rate"
+      // };
+  
+      // var college_trace = {
+      //     x: year,
+      //     y: {{statedb.College}},
+      //     type: 'line', 
+      //     name: "Bachelor's or higher rate"
+      // };
+  
+      // var employment_trace = {
+      //     x: year,
+      //     y: {{statedb['Employment Rate']}},
+      //     type: 'line',
+      //     name: "Employment rate"
+      // };
+  
+      let happiness_trace = {
+          x: year,
+          y: {{statedb.happy_score}},
+          type: 'line'
+      };
+  
+      let data = [happiness_trace];
   
       let layout = {
       title: "Happiness of " + state
