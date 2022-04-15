@@ -71,8 +71,8 @@ d3.json("/static/data/us_states.json").then(function(data) {
                     let state = feature.properties.name
                     console.log(state)
                     console.log(state_list)
-                    // var url = `/dashboard/${state}`;
-                    // window.location.href = url;
+                    var url = `/dashboard/${state}`;
+                    window.location.href = url;
                 }
             });
             // Giving each feature a popup with information that's relevant to it
@@ -94,54 +94,3 @@ d3.json("/static/data/us_states.json").then(function(data) {
         legend.addTo(newMap);
 });
 });
-
-
-
-
-
-// function PlotState(state){
-//     year = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
-
-
-//     let gdp_trace = {
-//     x: year,
-//     y: state_dict[state]['GDP'],
-//     type: 'line', 
-//     name: "GDP ($10,000)"
-//     };
-
-//     let hs_trace = {
-//         x: year,
-//         y: state_dict[state]['High School'],
-//         type: 'line', 
-//         name: "High school graduation rate"
-//     };
-
-//     let college_trace = {
-//         x: year,
-//         y: state_dict[state]['College'],
-//         type: 'line', 
-//         name: "Bachelor's or higher rate"
-//     };
-
-//     let employment_trace = {
-//         x: year,
-//         y: state_dict[state]['Employment Rate'],
-//         type: 'line',
-//         name: "Employment rate"
-//     };
-
-//     // let happiness_trace = {
-//     //     x: year,
-//     //     y: state['GDP'],
-//     //     type: 'line'
-//     // };
-
-//     let data = [gdp_trace, hs_trace,college_trace,employment_trace];
-
-//     let layout = {
-//     title: "Happiness of " + state
-//     };
-
-//     Plotly.newPlot("plot", data, layout);
-// }
