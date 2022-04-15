@@ -12,21 +12,37 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 
-// Getting our GeoJSON data
-d3.json("/static/data/us_states.json").then(function(data) {
 
-    L.geoJson(data).addTo(myMap);
-});
+d3.json("/static/data/state_data.json").then(function(stateData){
+
+var state_list = []
+for (i=0; i<stateData.length;i++){
+    state_list.push(stateData[i].StateName)
+}
+
+
 
 d3.json("/static/data/us_states.json").then(function(data) {
+    function getColor(d) {
+        return stateData[state_list.indexOf(d)].happy_score[9] > 7.5   ? '#339966' :
+              stateData[state_list.indexOf(d)].happy_score[9] > 7.2 ? '#99CC00' :
+              stateData[state_list.indexOf(d)].happy_score[9] > 6.5   ? '#FFCC00' :
+              stateData[state_list.indexOf(d)].happy_score[9] > 6 ? '#FF9900' :
+             '#993300';
+    }
+
+
     // Creating a GeoJSON layer with the retrieved data
     L.geoJson(data, {
         // Styling each feature (in this case, a neighborhood)
         style: function(feature) {
             return {
-                color: "white",
-                fillOpacity: 0.5,
-                weight: 1.5
+                fillColor: getColor(feature.properties.name),
+                weight: 2,
+                opacity: 1,
+                color: 'white',
+                dashArray: '3',
+                fillOpacity: 0.7
             };
         },
         // This is called on each feature.
@@ -39,7 +55,7 @@ d3.json("/static/data/us_states.json").then(function(data) {
                     layer.openPopup();
                     layer.setStyle({
                         fillOpacity: 0.9
-
+                        
                     });
                 },
                 // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 50%.
@@ -47,15 +63,16 @@ d3.json("/static/data/us_states.json").then(function(data) {
                     layer = event.target;
                     layer.closePopup();
                     layer.setStyle({
-                        fillOpacity: 0.5
+                        fillOpacity: 0.7
                     });
                 },
                 // When a feature (neighborhood) is clicked, it enlarges to fit the screen.
                 click: function redirect(e) {
                     let state = feature.properties.name
                     console.log(state)
-                    var url = `/dashboard/${state}`;
-                    window.location.href = url;
+                    console.log(state_list)
+                    // var url = `/dashboard/${state}`;
+                    // window.location.href = url;
                 }
             });
             // Giving each feature a popup with information that's relevant to it
@@ -63,6 +80,19 @@ d3.json("/static/data/us_states.json").then(function(data) {
 
         }
     }).addTo(myMap);
+    var legend = L.control({position: 'bottomright'})
+
+    legend.onAdd = function (map) { 
+    var div = L.DomUtil.create('div', 'info legend'),
+    grades = ["Very Unhappy","Unhappy","Neutral","Happy","Very Happy"];
+    colors = ['#99CC00','#339966','#339966','#FFCC00','#FF9900']
+    for (var i = 0; i < grades.length; i++) {
+        div.innerHTML += '<i style=”background:' + colors[i] + '”></i> ' + '<br>'
+        }
+        return div;
+        };
+        legend.addTo(newMap);
+});
 });
 
 
