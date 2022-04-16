@@ -12,7 +12,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 
-
+//This determines what state is going to be loaded onto our dashboard (iterates through)
 d3.json("/static/data/state_data.json").then(function(stateData){
 
 var state_list = []
@@ -20,8 +20,7 @@ for (i=0; i<stateData.length;i++){
     state_list.push(stateData[i].StateName)
 }
 
-
-
+//This is giving our states a conditional color depending on there latest happiness score
 d3.json("/static/data/us_states.json").then(function(data) {
     function getColor(d) {
         return stateData[state_list.indexOf(d)].happy_score[9] > 7.5   ? '#339966' :
@@ -30,7 +29,6 @@ d3.json("/static/data/us_states.json").then(function(data) {
               stateData[state_list.indexOf(d)].happy_score[9] > 6 ? '#FF9900' :
              '#993300';
     }
-
 
     // Creating a GeoJSON layer with the retrieved data
     L.geoJson(data, {
@@ -80,17 +78,5 @@ d3.json("/static/data/us_states.json").then(function(data) {
 
         }
     }).addTo(myMap);
-    var legend = L.control({position: 'bottomright'})
-
-    legend.onAdd = function (map) { 
-    var div = L.DomUtil.create('div', 'info legend'),
-    grades = ["Very Unhappy","Unhappy","Neutral","Happy","Very Happy"];
-    colors = ['#99CC00','#339966','#339966','#FFCC00','#FF9900']
-    for (var i = 0; i < grades.length; i++) {
-        div.innerHTML += '<i style=”background:' + colors[i] + '”></i> ' + '<br>'
-        }
-        return div;
-        };
-        legend.addTo(newMap);
 });
 });
