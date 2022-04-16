@@ -11,7 +11,9 @@ For this process we webscraped a [website](https://www.usinflationcalculator.com
 <p align="center">
   <img src="read_images/flowchart.PNG" />
 </p>
+
 - - -
+
 ## [Data Manipulation](code)
 The primary module we used for this manipulation was Pandas to perfrom transposes and merging to consolidate all our data into a final [file](data/final_happy.csv) that was both converted into a .json file and was uploaded into our MongoDB. One of our biggest hurdles was getting all the data to iterate through all 50 states/D.C while simultaneously iterating through 10 years worth of data. Below is an example of one those loops.
 
